@@ -4,7 +4,7 @@ A minimalist, high-fidelity replica of an Apple product landing page. This proje
 
 ## 🔗 Live Demo
 Check out the live version of this project here: 
-**[View Live Demo]()** 🚀
+**[View Live Demo]( https://priyanshjain543.github.io/Apple-Website-Landing-Page-)** 🚀
 
 ## ✨ Features
 * **Icon Integration:** Uses `Remix Icon` for the Apple logo (`ri-apple-fill`), Search (`ri-search-line`), and Shopping Bag (`ri-shopping-bag-line`).
